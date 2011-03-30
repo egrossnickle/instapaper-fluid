@@ -34,6 +34,12 @@ Unread Count
 The unread count badge only appears on the dock icon when in the _Unread_ section. Also, the unread count only reflects the number of articles on the current page (Instapaper.com shows 40 articles per page).
 
 
+Folders
+-------
+
+On the full Instapaper site, the folders list is in the sidebar. Since the sidebar is removed in this userscript, the folders list has been moved to the main navigation bar, but only appears when in the _Unread_ section; clicking _Folders_ toggles the folders list (see screenshot below).
+
+
 Icon
 ----
 
@@ -43,4 +49,4 @@ The included `.icns` file contains a custom 16-pixel icon which will appear in t
 Screenshot
 ----------
 
-![Screenshot](http://f.cl.ly/items/2o340g1W2R0P0W1a2t3q/instapaper-fluid.png)
+![Screenshot](http://f.cl.ly/items/312z022C1V1T2G231G3A/instapaper-fluid.png)
