@@ -43,4 +43,4 @@ The included `.icns` file contains a custom 16-pixel icon which will appear in t
 Screenshot
 ----------
 
-![Screenshot](http://cl.ly/5dN3/instapaper-fluid.png)
+![Screenshot](http://f.cl.ly/items/2o340g1W2R0P0W1a2t3q/instapaper-fluid.png)
